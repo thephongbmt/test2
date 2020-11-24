@@ -1,0 +1,121 @@
+{
+    "translation": {
+      "INTRO": {
+        "GAME": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_SFX_ON-A_VLFFEN001-vlffen8000b\"/>"
+      },
+      "CONFIG": {
+        "NUMBER": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/vlffen8017\"/>",
+        "NUMBER_ERROR": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/vlffen8017\"/>",
+        "COLOR": {
+          "CONFIRM": {
+            "1": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/{{COLOR}}-vlffen8028c\"/>",
+            "2": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/{{COLOR}}-vlffen8029c\"/>",
+            "3": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/{{COLOR}}-vlffen8030a\"/>",
+            "4": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/{{COLOR}}-vlffen8031b\"/>",
+            "5": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/{{COLOR}}-vlffen8032b\"/>"
+          },
+          "CONFIRM_LAST": [
+            "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/{{COLOR}}-vlffen8033a\"/>"
+          ],
+          "ERROR": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/vlffen8020a-{{COLOR_LIST}}-vlffen8020b\"/>",
+          "INTRO": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN006-vlffen8018\"/>",
+          "ASK": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/{{NUMBER}}-vlffen8019b\"/>"
+        }
+      },
+      "REPEAT": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/vlffen8036b\"/>",
+      "RESUME": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_SFX_ON-A_VLFFEN001-vlffen8000b-vlffen8051\"/>",
+      "PLAYER": {
+        "COLOR_PLAYER": {
+          "yellow": "B_VLFFEN_Yellow",
+          "pink": "B_VLFFEN_Pink",
+          "orange": "B_VLFFEN_Orange",
+          "blue": "B_VLFFEN_Blue",
+          "purple": "B_VLFFEN_Purple",
+          "white": "B_VLFFEN_White_Player",
+          "red": "B_VLFFEN_Red_Player",
+          "black": "B_VLFFEN_Black_Player",
+          "green": "B_VLFFEN_Green_Player",
+          "brown": "B_VLFFEN_Brown_Player",
+          "grey": "B_VLFFEN_Grey_Player"
+        },
+        "COLOR_MAPPING": {
+          "yellow": "yellow",
+          "purple": "purple",
+          "pink": "pink",
+          "orange": "orange",
+          "blue": "blue",
+          "white": "white",
+          "red": "red",
+          "black": "black",
+          "green": "green",
+          "brown": "brown",
+          "gray": "grey",
+          "grey": "grey"
+        },
+        "COLOR": {
+          "yellow": "H_VLFFEN_Yellow",
+          "pink": "H_VLFFEN_Pink",
+          "orange": "H_VLFFEN_Orange",
+          "blue": "H_VLFFEN_Blue",
+          "purple": "H_VLFFEN_Purple",
+          "white": "vlffen8021",
+          "red": "vlffen8022",
+          "black": "vlffen8023",
+          "green": "vlffen8024",
+          "brown": "vlffen8025",
+          "grey": "vlffen8026"
+        },
+        "NUMBER": {
+          "1": "VLFFEN_Player_1a",
+          "2": "VLFFEN_Player_2",
+          "3": "VLFFEN_Player_3",
+          "4": "VLFFEN_Player_4",
+          "5": "VLFFEN_Player_5"
+        }
+      },
+      "GAME": {
+        "START": {
+          "COLOR": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN006-A_VLFFEN_Rules-A_VLFFEN_Rules_b-A_VLFFEN_Rules_c-A_VLFFEN007b\"/><audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/vlffen8002c-A_VLFFEN008-A_SFX_Jingle\"/>",
+          "NO_COLOR": "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN006-A_VLFFEN_Rules-A_VLFFEN_Rules_b-A_VLFFEN_Rules_c-A_VLFFEN007c\"/><audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/vlffen8001b-A_VLFFEN008-A_SFX_Jingle\"/>"
+        },
+        "QUESTION": {
+          "COLOR": {
+            "1": [
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027d-white-{{QUESTION}}-{{COLOR}}-VLFFEN101\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027d-white-{{QUESTION}}-{{COLOR}}-VLFFEN102\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027d-white-{{QUESTION}}-{{COLOR}}-VLFFEN103\"/>"
+            ],
+            "2": [
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027b-white-{{QUESTION}}-{{COLOR}}-VLFFEN101\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027d-white-{{QUESTION}}-{{COLOR}}-VLFFEN102\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027b-white-{{QUESTION}}-{{COLOR}}-VLFFEN103\"/>"
+            ],
+            "3": [
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027b-white-{{QUESTION}}-{{COLOR}}-VLFFEN101\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027b-white-{{QUESTION}}-{{COLOR}}-VLFFEN102\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027b-white-{{QUESTION}}-{{COLOR}}-VLFFEN103\"/>"
+            ]
+          },
+          "NO_COLOR": {
+            "1": [
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027d-white-{{QUESTION}}-VLFFEN101\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027d-white-{{QUESTION}}-VLFFEN102\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027d-white-{{QUESTION}}-VLFFEN103\"/>"
+            ],
+            "2": [
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027d-white-{{QUESTION}}-VLFFEN101\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027d-white-{{QUESTION}}-VLFFEN102\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027b-white-{{QUESTION}}-VLFFEN103\"/>"
+            ],
+            "3": [
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027b-white-{{QUESTION}}-VLFFEN101\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027b-white-{{QUESTION}}-VLFFEN102\"/>",
+              "<audio src=\"https://audiotransform.shirkalab.io/ext/factfake2/A_VLFFEN027b-white-{{QUESTION}}-VLFFEN103\"/>"
+            ]
+          }
+        }
+      }
+  
+  
+    }
+  }
